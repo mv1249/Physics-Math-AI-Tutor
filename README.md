@@ -26,6 +26,9 @@ The project uses a **3-agent architecture** built with LangGraph:
 START → Classify Message → Router → [Physics Agent | Math Agent] → END
 ```
 
+![State Graph Diagram](https://github.com/mv1249/Physics-Math-AI-Tutor/blob/main/langgraph_image.png)
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
